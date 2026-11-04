@@ -847,6 +847,54 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[0].y
+      value: 0.08784417
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].x
+      value: 0.41825178
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[2].y
+      value: 0.2513042
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[4].x
+      value: 0.24654534
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[4].y
+      value: 0.6659399
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[5].x
+      value: 0.24625011
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[5].y
+      value: 0.25044367
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[6].x
+      value: -0.16781217
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[6].y
+      value: 0.24825901
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[7].y
+      value: 0.07896627
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[10].x
+      value: 0.41257998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791672004199731050, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
+      propertyPath: m_Points.m_Paths.Array.data[0].Array.data[10].y
+      value: -0.33465755
+      objectReference: {fileID: 0}
     - target: {fileID: 7913856124900389032, guid: 535623d09e7f52942b96999d4abd986c, type: 3}
       propertyPath: m_Name
       value: snurra (2)
